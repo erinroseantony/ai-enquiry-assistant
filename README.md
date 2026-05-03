@@ -1,4 +1,4 @@
-AI Enquiry Assistant 
+## AI Enquiry Assistant 
 
 This project is a simple AI-powered chatbot designed to help educational institutions handle student enquiries.
 It works like a WhatsApp chat where users can ask about courses, fees, and other details—and even share their contact info for follow-up.
@@ -62,7 +62,7 @@ This app demonstrates:
 * Course enquiry handling
 * Fee-related queries
 * Lead capture
-* 
+  
 ## Real-World Use
 
 This can easily be extended to real applications by connecting it to WhatsApp using APIs like Twilio.
