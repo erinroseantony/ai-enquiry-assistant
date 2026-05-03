@@ -15,11 +15,11 @@ Instead of answering manually every time, this assistant helps automate those co
 
 ## What This App Does
 
-* 💬 Simulates a WhatsApp-style chat interface
-* 📚 Shows available courses
-* 💰 Provides course fees and duration
-* 🧠 Understands different ways users ask questions (like “fees”, “cost”, “price”)
-* 📝 Captures user contact details for follow-up
+* Simulates a WhatsApp-style chat interface
+* Shows available courses
+* Provides course fees and duration
+* Understands different ways users ask questions (like “fees”, “cost”, “price”)
+* Captures user contact details for follow-up
 
 ## Tech Used
 * Python
